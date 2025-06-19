@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "STEEL TEAM MEMBERS"
 permalink: /contact
 ---
