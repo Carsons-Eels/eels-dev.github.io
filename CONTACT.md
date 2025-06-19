@@ -19,7 +19,7 @@ permalink: /contact
 
 #### Dan
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/91727015?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/91727015?v=1)
 
 - _github_: [@danceratopz](https://github.com/danceratopz)
 - _email_: dan (dot) (at) ethereum (dot) org
