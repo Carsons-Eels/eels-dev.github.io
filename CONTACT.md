@@ -19,7 +19,7 @@ permalink: /contact
 
 #### Dan
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/91727015?v=1)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/91727015)
 
 - _github_: [@danceratopz](https://github.com/danceratopz)
 - _email_: dan (dot) (at) ethereum (dot) org
@@ -28,7 +28,7 @@ permalink: /contact
 
 #### Spencer Taylor-Brown
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/60348173?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/60348173)
 
 - _github_: [@spencer-tb](https://github.com/spencer-tb)
 - _email_: spencer (dot) taylor-brown (at) ethereum (dot) org
@@ -43,7 +43,7 @@ permalink: /contact
 
 #### Leo Lara
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/1210482?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/1210482)
 
 - _website_: [leolara.me](https://leolara.me)
 - _github_: [@leolara](https://github.com/leolara)
@@ -55,7 +55,7 @@ permalink: /contact
 
 #### Louis Tsai
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/72684086?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/72684086)
 
 - _website_: [louistsai.vercel.app](https://louistsai.vercel.app)
 - _github_: [@LouisTsai-Csie](https://github.com/LouisTsai-Csie)
@@ -68,7 +68,7 @@ permalink: /contact
 
 #### Sam Wilson
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/57262657?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/57262657)
 
 - _github_: @samwilsn
 - _email_: sam (dot) wilson (at) ethereum (dot) org
@@ -77,21 +77,21 @@ permalink: /contact
 
 #### Guru Kamath
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/48196632?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/48196632)
 
 - _github_: @gurukamath
 - _email_: guru (dot) kamath (at) ethereum (dot) org
 
 #### Carson
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/200164931?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/200164931)
 
 - _github_: @carsons-eels
 - _email_: carson (at) ethereum (dot) org
 
 #### Peter Miller (On Leave)
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/8127356?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/8127356)
 
 - _github_: @petertdavies
 - _email_: peter (dot) davies (at) ethereum (dot) foundation
@@ -100,7 +100,7 @@ permalink: /contact
 
 #### Souradeep
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/26090752?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/26090752)
 
 - _github_: @souradeep_das
 - _email_: souradeep (dot) das (at) ethereum (dot) org
@@ -109,7 +109,7 @@ permalink: /contact
 
 #### Jochem Brouwer
 
-![Picture or Avatar](https://avatars.githubusercontent.com/u/29359032?v=4)
+![Picture or Avatar](https://avatars.githubusercontent.com/u/29359032)
 
 - _github_: [@jochem-brouwer](https://github.com/jochem-brouwer)
 - _email_: 
