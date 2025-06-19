@@ -6,6 +6,9 @@ url: https://carsons-eels.github.io
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
 include:
 - README.md
 - CONTACT.md
