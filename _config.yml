@@ -1,4 +1,5 @@
 title: STEEL Team
+title_separator: "-"
 description: Home page of the Ethereum Foundation STEEL Team
 remote_theme: pages-themes/hacker@v0.2.0
 baseurl: /eels-dev.github.io
@@ -12,3 +13,4 @@ relative_links:
 include:
 - README.md
 - CONTACT.md
+locale: "en-ES"
