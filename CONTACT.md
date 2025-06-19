@@ -1,6 +1,8 @@
+---
 layout: page
 title: "STEEL TEAM MEMBERS"
 permalink: /contact
+---
 
 # STEEL Team Members
 
