@@ -1,13 +1,11 @@
 title: STEEL Team
 description: Home page of the Ethereum Foundation STEEL Team
 remote_theme: pages-themes/hacker@v0.2.0
+baseurl: /eels-dev.github.io
+url: https://carsons-eels.github.io
 plugins:
-- jekyll-remote-theme
-
-navigation:
-- text: Home
-  url: 
-  internal: true
-- text: Contact
-  url: contact
-  internal: true
+  - jekyll-relative-links
+  - jekyll-remote-theme
+include:
+- README.md
+- CONTACT.md
