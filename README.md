@@ -3,6 +3,11 @@
 The STEEL team is a team funded the Ethereum Foundation (EF) which develops and
 maintains the execution specs, and execution spec tests.
 
+## Links
+
+- [Contacts](https://carsons-eels.github.io/steel_site_demo/contact)
+- [Blog](https://carsons-eels.github.io/steel_site_demo/blog)
+
 ## Ethereum Execution Layer Specification (EELS)
 
 The [EELS](https://github.com/ethereum/execution-specs) project aims to
